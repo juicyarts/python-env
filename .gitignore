@@ -1,0 +1,9 @@
+**/__pycache__
+.pytest_cache
+logs/*.log*
+*.egg-info
+/build
+/dist
+/.vscode/settings.json
+/.venv
+.vscode/.ropeproject
